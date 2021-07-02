@@ -7,3 +7,6 @@ What is ReentrancyGuard
 
 Inheriting from ReentrancyGuard will make the nonReentrant modifier available, which can be applied to functions to make sure there are no nested (reentrant) calls to them.
 
+### Running tests
+`npx hardhat test`
+
