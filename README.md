@@ -10,3 +10,10 @@ Inheriting from ReentrancyGuard will make the nonReentrant modifier available, w
 ### Running tests
 `npx hardhat test`
 
+### Running local node and deploying contracts
+
+`npx hardhat node`
+
+`npx hardhat run scripts/deploy.js --network localhost`
+
+
