@@ -16,4 +16,10 @@ Inheriting from ReentrancyGuard will make the nonReentrant modifier available, w
 
 `npx hardhat run scripts/deploy.js --network localhost`
 
+run the app
+
+`npm run dev`
+
+
+
 
